@@ -1,5 +1,7 @@
 <script>
-  let name = "Aiden and Zoie's Homework App";
+  import Header from "./components/Header.svelte";
+
+  let intro = "Let's practice some skills!!!";
 </script>
 
 <style>
@@ -9,4 +11,6 @@
   }
 </style>
 
-<h1>{name}!</h1>
+<Header />
+
+<h1>{intro}!</h1>
