@@ -1,5 +1,6 @@
 <script>
-
+  let title = "Aiden & Zoie's Homework App!";
+  let question = "Are you ready to have some FUN?";
 </script>
 
 <style>
@@ -51,7 +52,7 @@
     </h5>
   </div>
   <div class="hero-text">
-    <h1>Aiden &amp; Zoie's Homework App!</h1>
-    <h3>Are you ready to have some FUN?</h3>
+    <h1>{title}</h1>
+    <h3>{question}</h3>
   </div>
 </div>

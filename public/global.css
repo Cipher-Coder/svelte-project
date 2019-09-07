@@ -89,3 +89,8 @@ samp {
   font-family: monospace, monospace;
   font-size: 1em;
 }
+
+.menu-container {
+  margin: auto;
+  text-align: center;
+}
